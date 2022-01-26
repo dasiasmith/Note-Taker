@@ -5,7 +5,7 @@
   ## Description
 
   This application utilizes Express.js as well as Node.js to save and retrieve note data from a JSON files to write and save user notes.
-  The deployed application can be found ![Here](https://afternoon-inlet-19317.herokuapp.com)
+  The deployed application can be found at https://afternoon-inlet-19317.herokuapp.com/ 
 
   ## Table of Contents
 
